@@ -1,0 +1,62 @@
+[
+  {
+    "relationId": "REL001",
+    "employeeId": "EMP001",
+    "employeeName": "Anita Sharma",
+    "personName": "Rahul Sharma",
+    "relation": "Spouse",
+    "eventType": "birthday",
+    "eventDate": "10-03",
+    "photo": "assets/relations/rahul-sharma.svg"
+  },
+  {
+    "relationId": "REL002",
+    "employeeId": "EMP001",
+    "employeeName": "Anita Sharma",
+    "personName": "Aarav Sharma",
+    "relation": "Son",
+    "eventType": "birthday",
+    "eventDate": "10-03",
+    "photo": "assets/relations/aarav-sharma.svg"
+  },
+  {
+    "relationId": "REL003",
+    "employeeId": "EMP002",
+    "employeeName": "Rajeshwar Rao",
+    "personName": "Padmavathi Rao",
+    "relation": "Spouse",
+    "eventType": "anniversary",
+    "eventDate": "05-12",
+    "photo": "assets/relations/relation-placeholder.svg"
+  },
+  {
+    "relationId": "REL004",
+    "employeeId": "EMP003",
+    "employeeName": "Vikramaditya Singh",
+    "personName": "Smt. Shanti Devi Singh",
+    "relation": "Mother",
+    "eventType": "birthday",
+    "eventDate": "10-03",
+    "photo": "assets/relations/shanti-devi.svg"
+  },
+  {
+    "relationId": "REL005",
+    "employeeId": "EMP007",
+    "employeeName": "Pradeep Kumar",
+    "personName": "Shri Ramakant Kumar",
+    "relation": "Father",
+    "eventType": "birthday",
+    "eventDate": "12-18",
+    "photo": "assets/relations/relation-placeholder.svg"
+  },
+  {
+    "relationId": "REL006",
+    "employeeId": "EMP008",
+    "employeeName": "Meera Nair",
+    "personName": "Ananya Nair",
+    "relation": "Daughter",
+    "eventType": "birthday",
+    "eventDate": "07-22",
+    "photo": "assets/relations/relation-placeholder.svg"
+  }
+]

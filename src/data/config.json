@@ -1,0 +1,52 @@
+{
+  "organization": {
+    "name": "Controllerate of Quality Assurance Systems",
+    "slogan": "गुणवत्ता से विश्वास",
+    "location": "Secunderabad",
+    "logo": "assets/logo/DGQALogo.jpeg",
+    "subTitle": "Department of Directorate General of Quality Assurance ",
+    "ministry": "Ministry of Defence, Government of India"
+  },
+  "controller": {
+    "name": "Brig.Heemanshu Jha",
+    "designation": "Controller",
+    "photo": "assets/controller/controller.jpg",
+    "message": "Committed to unwavering quality standards, precision engineering, and national security."
+  },
+  "display": {
+    "resolution": "1920x1080",
+    "fullscreen": true,
+    "loop": true
+  },
+  "timings": {
+    "organizationWelcome": 14,
+    "event": 9,
+    "festival": 10,
+    "videoFallback": 12
+  },
+  "features": {
+    "employeeEvents": true,
+    "familyEvents": true,
+    "familyPhotos": true,
+    "festivalGreetings": true,
+    "video": true,
+    "quotes": true,
+    "allowManualControl": true
+  },
+  "testing": {
+    "testDate": null
+  },
+  "security": {
+    "adminPin": "1234"
+  },
+  "eventPriority": [
+    "birthday",
+    "work-anniversary",
+    "joining-anniversary",
+    "promotion",
+    "retirement",
+    "wedding-anniversary",
+    "family-event",
+    "festival"
+  ]
+}

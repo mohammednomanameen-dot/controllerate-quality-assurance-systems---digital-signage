@@ -1,0 +1,47 @@
+[
+  {
+    "festivalId": "FEST001",
+    "name": "Vijayadashami / Dussehra",
+    "date": "10-03",
+    "greeting": "Warm greetings on the auspicious occasion of Vijayadashami. May truth, dedication, and excellence triumph in all our missions.",
+    "subtext": "विजयादशमी की हार्दिक शुभकामनाएं",
+    "image": "assets/festivals/dussehra.svg",
+    "themeColor": "#D97706"
+  },
+  {
+    "festivalId": "FEST002",
+    "name": "Diwali - Festival of Lights",
+    "date": "11-08",
+    "greeting": "Warm wishes for a bright, peaceful, and prosperous Diwali to all officers, staff, and their families.",
+    "subtext": "दीपावली की हार्दिक शुभकामनाएं",
+    "image": "assets/festivals/diwali.svg",
+    "themeColor": "#F59E0B"
+  },
+  {
+    "festivalId": "FEST003",
+    "name": "Republic Day",
+    "date": "01-26",
+    "greeting": "Celebrating the spirit of our Constitution and reaffirming our pledge toward national defense and quality assurance.",
+    "subtext": "गणतंत्र दिवस की हार्दिक शुभकामनाएं",
+    "image": "assets/festivals/republic-day.svg",
+    "themeColor": "#2563EB"
+  },
+  {
+    "festivalId": "FEST004",
+    "name": "Independence Day",
+    "date": "08-15",
+    "greeting": "Saluting our nation's sovereignty, valor, and technological self-reliance on Independence Day.",
+    "subtext": "स्वतंत्रता दिवस की हार्दिक शुभकामनाएं",
+    "image": "assets/festivals/independence-day.svg",
+    "themeColor": "#EA580C"
+  },
+  {
+    "festivalId": "FEST005",
+    "name": "Gandhi Jayanti",
+    "date": "10-02",
+    "greeting": "Remembering the timeless values of truth, integrity, and selfless duty on Gandhi Jayanti.",
+    "subtext": "गांधी जयंती पर शत-शत नमन",
+    "image": "assets/festivals/gandhi-jayanti.svg",
+    "themeColor": "#0D9488"
+  }
+]

@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FAF7F0;
+    color: #1C1917;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Nirmala UI", "Mangal", sans-serif;
+    overflow: hidden;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom Gradients for Orange, Green, and Cream White theme */
+.bg-cream-canvas {
+  background-color: #FAF7F0;
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(234, 88, 12, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(5, 150, 105, 0.09) 0%, transparent 45%),
+    linear-gradient(135deg, #FFFDF9 0%, #FAF6EE 50%, #F5EFE1 100%);
+}
+
+.bg-tricolor-gradient {
+  background: linear-gradient(135deg, #EA580C 0%, #F97316 25%, #FFFDF9 50%, #059669 75%, #047857 100%);
+}
+
+.bg-orange-green-subtle {
+  background: linear-gradient(120deg, rgba(234, 88, 12, 0.07) 0%, rgba(255, 253, 247, 0.95) 50%, rgba(5, 150, 105, 0.07) 100%);
+}
+
+.text-gradient-orange-green {
+  background: linear-gradient(135deg, #C2410C 0%, #EA580C 40%, #047857 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.border-gradient-orange-green {
+  border-image: linear-gradient(to right, #EA580C, #FDE68A, #059669) 1;
+}
+
+/* Hindi Typography Optimization */
+.font-hindi {
+  font-family: "Nirmala UI", "Mangal", "Noto Sans Devanagari", "Devanagari Sangam MN", sans-serif;
+}

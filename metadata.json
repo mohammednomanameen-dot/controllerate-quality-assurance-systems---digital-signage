@@ -1,0 +1,6 @@
+{
+  "name": "Controllerate of Quality Assurance Systems - Digital Signage",
+  "description": "Premium offline-first digital signage, welcome display, and employee recognition system for Controllerate of Quality Assurance Systems, Secunderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
